@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(9, 0, 26);
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+header {
+    padding: 21px 0 22px;
+}
+
+.header_logo {
+    color: #3A68B8;
+}
+
+.header_logo span {
+    color: #3A68B8;
+    padding-left: 15px;
+}
+
+.header_menu li a {
+    color: #fff;
+}
+
+.general_btn {
+    padding: 10px 20px;
+    transition: 0.5s ease;
+}
+
+.section_main {
+    padding: 50px 0;
+    min-height: 90vh;
+}
+
+.section_main h1 {
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 71px;
+}
+
+.section_ai {
+    padding: 130px 0px 170px;
+}
+
+.section_ai h1 {
+    font-size: 40px;
+}
+
+.section_ai {
+    font-weight: 600;
+}
+
+.pl-rm {
+    padding-left: 0;
+}
+
+.pr-rm {
+    padding-right: 0;
+}
+
+.custom_card {
+    background-color: #0e1523;
+    min-height: 410px;
+}
+
+.custom_card h2 {
+    font-size: 25px;
+}
+
+.section_clients {
+    padding: 280px 0px 170px;
+}
+
+footer {
+    padding-top: 77px;
+    padding-bottom: 148px;
+}
+
+footer p {
+    font-size: 14px;
+    font-weight: 450;
+}
+
+.footer_a {
+    padding-top: 20px;
+    display: block;
+}
+
+.form {
+    color: #fff;
+    background-color: #0e1523;
+    border: #0e1523;
+}
